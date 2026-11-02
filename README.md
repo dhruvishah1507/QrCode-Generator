@@ -7,7 +7,7 @@ A simple, fast, and user-friendly QR Code Generator built with Python. Generate 
 Get the latest version of QR Code Generator for Windows.
 
 ⬇️ Download QR Code Generator (.exe)
-Replace YOUR_DIRECT_DOWNLOAD_LINK_HERE with your direct .exe download URL.
+Replace https://github.com/dhruvishah1507/QrCode-Generator/releases/download/QrCode/QrCode.Generator.-.DhruviCodes.exe with your direct .exe download URL.
 ✅ No Python installation required
 ✅ Easy to install and use
 ✅ Ready-to-run Windows executable
